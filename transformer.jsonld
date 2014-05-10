@@ -1,0 +1,7 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "type",
+ "id": "integer",
+ "description": "integer",
+ "schema": "string"
+}
